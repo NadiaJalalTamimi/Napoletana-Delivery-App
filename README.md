@@ -1,4 +1,4 @@
-# Napoletana Delivery App :shallowpanoffood: 
+# Napoletana Delivery App :shallow_pan_of_food: 
 
 ## Description: :bookmark_tabs:
 
