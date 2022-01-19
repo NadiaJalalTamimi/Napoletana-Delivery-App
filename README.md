@@ -1,6 +1,6 @@
 # Napoletana Delivery App :shallowpanoffood: 
 
-## Description: :bookmarktabs: 
+## Description: :bookmark_tabs:
 
 A mobile app for a restaurant that allows customers to order, delivery service and pay online.
 
