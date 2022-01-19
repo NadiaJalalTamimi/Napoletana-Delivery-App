@@ -4,12 +4,13 @@
 
 A mobile app for a restaurant that allows customers to order, delivery service and pay online.
 
-## User Journey:  :worldmap: 
+## User Journey:  :world_map: 
 
 
 ![Presentazione senza titolo](https://user-images.githubusercontent.com/62670964/150210465-6ffaa82f-2b87-4508-a61f-0ca4ecbb64e9.jpg)
 
 ## User story: :book: 
+
 As a user I can:
 * See the list of meals.
 * Choose the meal I want and order it.
